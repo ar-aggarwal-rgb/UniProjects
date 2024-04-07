@@ -1,4 +1,4 @@
-# Data Exploration with Python in Jupyter Notebook
+# Data Exploration with Python - Jupyter Notebook
 This repository contains a collection of Jupyter Notebooks demonstrating various combinations of data analysis techniques in Python using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Project Structure
